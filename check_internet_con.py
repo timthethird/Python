@@ -1,4 +1,6 @@
+#comment by tim
 import urllib2
+
 
 try:
     urllib2.urlopen("http://google.com", timeout=2)
